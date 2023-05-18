@@ -15,11 +15,6 @@
   "mixins": [
     "nvidium.mixins.json"
   ],
-  "depends": {
-    "fabricloader": ">=0.14",
-    "sodium": "=0.4.10"
-  },
-  "breaks": {
-    "iris": "*"
-  }
+  "depends": {},
+  "breaks": {}
 }
